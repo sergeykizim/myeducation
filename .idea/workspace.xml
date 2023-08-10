@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d6c41c-d43a-4648-ac5d-948a13bbe431" name="Changes" comment="" />
+    <list default="true" id="d4d6c41c-d43a-4648-ac5d-948a13bbe431" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/locators" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690801446784</updated>
       <workItem from="1690801449113" duration="210000" />
+      <workItem from="1691680241486" duration="90000" />
     </task>
     <servers />
   </component>
